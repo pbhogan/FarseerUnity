@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarseerUnityTest/DebugView.cs">
+    <Files>
+      <File FileName="FarseerUnityTest/Window.cs" Line="1" Column="1" />
+      <File FileName="FarseerUnityTest/Program.cs" Line="1" Column="1" />
+      <File FileName="FarseerUnityTest/ProgramSimple.cs" Line="1" Column="1" />
+      <File FileName="FarseerUnityTest/DebugView.cs" Line="44" Column="4" />
+      <File FileName="FarseerUnityTest/DebugRenderer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FarseerUnity" expanded="True">
+            <Node name="Farseer" expanded="True">
+              <Node name="Collision" expanded="True">
+                <Node name="Shapes" expanded="True" />
+              </Node>
+              <Node name="Common" expanded="True">
+                <Node name="ConvexHull" expanded="True" />
+                <Node name="Decomposition" expanded="True" />
+                <Node name="PhysicsLogic" expanded="True" />
+                <Node name="PolygonManipulation" expanded="True" />
+                <Node name="TextureTools" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Factories" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="FarseerUnityTest" expanded="True">
+            <Node name="DebugView.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
